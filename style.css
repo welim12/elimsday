@@ -1,0 +1,22 @@
+h1{
+    background-color: hotpink;
+    font-family: cursive;
+    color:pink;
+}
+
+h3{
+    font-family: fantasy;
+    color:hotpink
+}
+body{
+    background-image: url("https://img.freepik.com/free-vector/simple-cute-heart-pattern-wallpaper-copules-anniversary_1017-49423.jpg");
+}
+
+.elim{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    background-color: pink;
+
+}
